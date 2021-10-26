@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voice-travle/static/css/main.0f677a17.chunk.css",
+    "main.js": "/voice-travle/static/js/main.3815f3fd.chunk.js",
+    "main.js.map": "/voice-travle/static/js/main.3815f3fd.chunk.js.map",
+    "runtime-main.js": "/voice-travle/static/js/runtime-main.8351ef76.js",
+    "runtime-main.js.map": "/voice-travle/static/js/runtime-main.8351ef76.js.map",
+    "static/js/2.b6475d3d.chunk.js": "/voice-travle/static/js/2.b6475d3d.chunk.js",
+    "static/js/2.b6475d3d.chunk.js.map": "/voice-travle/static/js/2.b6475d3d.chunk.js.map",
+    "index.html": "/voice-travle/index.html",
+    "precache-manifest.55e9722552453e431b890097b716d90a.js": "/voice-travle/precache-manifest.55e9722552453e431b890097b716d90a.js",
+    "service-worker.js": "/voice-travle/service-worker.js",
+    "static/css/main.0f677a17.chunk.css.map": "/voice-travle/static/css/main.0f677a17.chunk.css.map",
+    "static/js/2.b6475d3d.chunk.js.LICENSE.txt": "/voice-travle/static/js/2.b6475d3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8351ef76.js",
+    "static/js/2.b6475d3d.chunk.js",
+    "static/css/main.0f677a17.chunk.css",
+    "static/js/main.3815f3fd.chunk.js"
+  ]
+}
